@@ -1,82 +1,49 @@
 
-# <p dir="rtl">
-فيديوهات الدرس</p>
-
+<p dir="rtl">
+<h3><a href="https://github.com/kuwaitcodes/web-cw-1">تمرين </a></h3></p>
 
 
 <p dir="rtl">
+نبي نتعرف عليك من هذا التمرين</p>
+<h1></h1>
+<p dir="rtl">
+ <strong>الجزء الاول</strong></p>
 
-* [إنشاء اكاونت في github وربطه ب github desktop](https://youtu.be/2YFjctENWZI) 
-</p>
+
+
+1.  انشئ ملف بصيغة .html
+2. غير عنوان الصفحة الى "الصفحة الاول" بإستخدام وسم &lt;title>
+3. اكتب اسمك باستخدام وسم &lt;h1>
+4. اكتب "هذا موقعي الاول" بإستخدام وسم &lt;h2>
+5. اكتب سبب اختيارك لمسار برمجة المواقع باستخدام وسم &lt;p> \
+مثال: اخترت مسار برمجة المواقع لانه افضل مسار
+6. احفظ التغييرات وارفع الكود إلى github
+<p dir="rtl">
+<strong>بونص!</strong></p>
+
+
+
+
+* ضع ايقونة في عنوان الصفحة (icon)
+
+<h1></h1>
+<p dir="rtl">
+<strong>الجزء الثاني</strong></p>
+
+
+
+1. أنشئ ملف ثاني بصيغة .html
+2. أدرج صورة للعبتك المفضلة بإستخدام وسم &lt;img> \
+وغير خصائصها باستخدام سمة: width و height
+3. ضع رابط ينقلك إلى الصفحة الأولى باستخدام وسم &lt;a> 
+4. اكتب تاريخ اليوم كملاحظة
+5. احفظ التغييرات وارفع الكود إلى github
+6. قم بتسليم التمرين على موقع Coded Lab
+<p dir="rtl">
+<strong>بونص!</strong></p>
+
 <p dir="rtl">
 
-
-* [اساسيات github](https://youtu.be/0fl2nBAFQm8) 
-
-</p>
-
-# <p dir="rtl">
-طريقة رفع المشاريع ل github   </p>
+* إدراج أي فيديو في موقعك
 
 
-
-<p dir="rtl">
-
-* إنشاء حساب ب github 
-    * اسم حساب الطالب  في github (name - id ) must
-  </p>
-<p dir="rtl">
-
-* تحميل github desktop 
-</p>
-<p dir="rtl">
-
-* رفع الملجد ل github 
-</p>
-
----
-
-<p dir="rtl">
-<strong>تمرين</strong>  <a href="https://github.com/kuwaitcodes/github-cw-1">(github link)</a></p>
-
-
-<p dir="rtl">
-نبي نتعرف عليك اكثر من هذا التمرين</p>
-
-
-
-
-<p dir="rtl">
-1. قم بعمل fork 
-</p>
-<p dir="rtl">
-2. افتح المجلد في github desktop 
-</p>
-<p dir="rtl">
-3. على جهازك اذهب الى المجلد وقم بإنشاء ملف نصي  txt   جديد وأعد تسميته لإسمك
-</p>
-<p dir="rtl">
-4. افتح الملف النصي وقم بكتابة مسارك و نكتب داخل الملف المعلومات التالية:
-  <ul dir="rtl" >
- <li dir="rtl"> إسم الطالب</li>
-    <li dir="rtl">أسم المسار</li>
-   <li dir="rtl">أسم المدرسة</li>
-   <li dir="rtl">أالمرحلة الدراسية مثال (الحادي عشر علمي</li>
-     <li dir="rtl">هواية</li>
-</ul>
-</p>
-<p dir="rtl">
-5. افتح برنامج github desktop عندما تنتهي وتود نشر عملك 
-</p>
-<p dir="rtl">
-6. اضف تعليقك summary 
-</p>
-<p dir="rtl">
-7. ثم اضغط على commit to main 
-</p>
-<p dir="rtl">
-8. واخيرا اضغط على push origin
-</p>
-<p dir="rtl">
-9. قم بتسليم التمرين Coded Lab
-</p>
